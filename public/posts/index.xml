@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>_Index on sAIm Consulting</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in _Index on sAIm Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Sep 2024 09:42:26 -0700</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;p&gt;Welcome to &lt;strong&gt;sAIm Consulting&amp;rsquo;s&lt;/strong&gt; blog! Here, we share insights on the latest trends in AI, technology, and consulting. Stay tuned for more updates.&lt;/p&gt;</description>
+      <content>&lt;p&gt;Welcome to &lt;strong&gt;sAIm Consulting&amp;rsquo;s&lt;/strong&gt; blog! Here, we share insights on the latest trends in AI, technology, and consulting. Stay tuned for more updates.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

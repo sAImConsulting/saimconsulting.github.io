@@ -1,0 +1,48 @@
+baseURL = "http://example.com/"
+languageCode = "en-us"
+title = "sAIm Consulting"
+theme = "terminal"
+enableRobotsTXT = true
+paginate = 5
+
+[params]
+  # Main settings
+  disableDarkMode = true
+  description = "sAIm Consulting Company - Technology Solutions for the Future"
+  author = "sAIm Consulting"
+  showMenuItems = 3
+  showLanguageSelector = false
+  showRSS = true
+  showShareButtons = true
+  poweredBy = false
+  useHugoVersion = false
+  fullWidthTheme = true
+  centerTheme = true
+
+  # Enable Google Analytics (Replace with your own ID)
+  googleAnalytics = ""
+
+# Add a logo in the static/images/ directory if you have one
+[params.logo]
+  image = "images/logo.png"
+  width = 120
+  height = 120
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact Us"
+    url = "/contact/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 3
